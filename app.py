@@ -7,10 +7,9 @@ import requests
 
 def dk(USERNAME, PASSWORD, LOCATION, COORD,token):
     # 小北学生 账号密码
-    # USERNAME = '15675842897'
-    # PASSWORD = '19990911Zyp'
+
     # # 经纬度
-    # LOCATION = '112.909625,28.35685'
+
     # # 位置
     # COORD = '中国-湖南省-长沙市-望城区'
     # 基本链接
